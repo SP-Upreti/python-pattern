@@ -2,20 +2,6 @@
 printing pattern using python for loop
 
 
-Expected pattern:
-
-     *
-    * *
-   *   *
-  *     *
- *       *
-*         *
-*         *
- *       *
-  *     *
-   *   *
-     *
-
 
 Code:
 for i in range(6):
